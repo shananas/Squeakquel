@@ -1,0 +1,52 @@
+title: The Squeakquel
+author: shananas
+game: kh2
+assets:
+- name: obj/B_AL100_1ST.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL100_1ST.mdlx
+- name: obj/B_AL100_2ND.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL100_2ND.mdlx
+- name: obj/B_AL100_FIRE.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL100_FIRE.mdlx
+- name: obj/B_AL100_FIRE_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL100_FIRE_GM.mdlx
+- name: obj/B_AL100_ICE.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL100_ICE.mdlx
+- name: obj/B_AL100_ICE_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL100_ICE_GM.mdlx
+- name: obj/N_DC030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_DC030_RTN.mdlx
+- name: obj/N_DC030_WM.mdlx
+  method: copy
+  source:
+  - name: obj/N_DC030_WM.mdlx
+- name: obj/N_DC040_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_DC040_RTN.mdlx
+- name: obj/N_DC040_WM.mdlx
+  method: copy
+  source:
+  - name: obj/N_DC040_WM.mdlx
+- name: obj/WM_DC030.mdlx
+  method: copy
+  source:
+  - name: obj/WM_DC030.mdlx
+- name: obj/WM_DC040.mdlx
+  method: copy
+  source:
+  - name: obj/WM_DC040.mdlx
